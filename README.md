@@ -1,8 +1,8 @@
-##### I read books, I put titles here, what questions they answer and may include some interesting things about them
+### I read books, I put titles here, what questions they answer and may include some interesting things about them
 
-#### books
+## books
 
-###### Code: The Hidden Language of Computer Hardware and Software 2nd Edition
+#### Code: The Hidden Language of Computer Hardware and Software 2nd Edition
 
 a nice book about computers(digital ones), very well written and good read. not very boring but less.
 
