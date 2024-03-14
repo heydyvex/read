@@ -14,6 +14,7 @@ a nice book about computers(digital ones), very well written and good read. not 
 - what is logic gate?
 - but how to do arithmetic?
 - how can we build such a functional computer with logic gates?
+- what are transistor and semiconductors?
 - what is CPU and RAM and how they work?
 - what is instruction set?
 - what is op code, what is data?
@@ -23,4 +24,4 @@ a nice book about computers(digital ones), very well written and good read. not 
 - what is assembly code?
 - what is higher lever programming language?
 - what is operating system? (giant software we take for granted)
-- what the hell is computer(digital)?
+- so many more questions...
