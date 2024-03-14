@@ -10,6 +10,7 @@ a nice book about computers(digital ones), very well written and good read. not 
 - what are zeros and ones, why and how?
 - how electricity (electrons) can represent 0 and 1?
 - Morse code, flashlights, zero and one, what they have in common?
+- what is circuit and switch?
 - what is Boolean Algebra and why?
 - what is logic gate?
 - but how to do arithmetic?
