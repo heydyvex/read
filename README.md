@@ -1,10 +1,11 @@
-### I read books, I put titles here, what questions they answer and may include some interesting things about them
+ I read books, I put titles here, what questions they answer.
 
-## books
+
 
 #### Code: The Hidden Language of Computer Hardware and Software 2nd Edition
 
-a nice book about computers(digital ones), very well written and good read. not very boring but less.
+book is about computers(digital ones), very well written. I'm fascinated by power of abstraction and book is all about abstraction and layers of abstractions in computer.
+this book gave me a good big picture of how computer works(but in every details, of course I don’t know).
 
 - what really is code?
 - what are zeros and ones, why and how?
@@ -25,4 +26,7 @@ a nice book about computers(digital ones), very well written and good read. not 
 - what is assembly code?
 - what is higher lever programming language?
 - what is operating system? (giant software we take for granted)
-- so many more...
+- many more...
+
+
+#### Zero to One: Notes on Startups, or How to Build the Future
