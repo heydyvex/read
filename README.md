@@ -1,4 +1,4 @@
- I read books, I put titles here, what questions they answer.
+ I read books and put my comment on them here.
 
 
 
@@ -7,6 +7,7 @@
 book is about computers(digital ones), very well written. I'm fascinated by power of abstraction and book is all about abstraction and layers of abstractions in computer.
 this book gave me a good big picture of how computer works(but in every details, of course I don’t know).
 
+###### Questions it answers:
 - what really is code?
 - what are zeros and ones, why and how?
 - how electricity (electrons) can represent 0 and 1?
@@ -30,3 +31,23 @@ this book gave me a good big picture of how computer works(but in every details,
 
 
 #### Zero to One: Notes on Startups, or How to Build the Future
+
+Ok, first of all, this book is kind of books that I have to read every year, there are just too much wisdom, Author is Peter Thiel.
+Thiel is very critical about things that he discusses in book and it is nice to see he thinks out loud.
+Book is about how to build the future how to succeed building it. I must reread it every day.
+
+- about future, how to get from 0 to 1, build new things and improve dramatically
+- technology vs globalization
+- startups: rethinking from scratch
+- competition is for losers and it is not good strategy
+- build a monopoly
+- definite optimism, indefinite optimism, definite pessimism, indefinite pessimism
+- reject tyranny of chance, you are not a lottery ticket
+- find secrets and make it a product
+- start a startup with storng foundation(Thiel's law)
+- how to choose best poeple and work with
+- how to sell a product
+- people(globalization) are substitutions, (technology)computers are complementary(still😅)
+- why did cleantech fail
+- why tesla succeed
+- the funder's paradox
