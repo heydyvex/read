@@ -30,6 +30,7 @@ this book gave me a good big picture of how computer works(but in every details,
 - many more...
 
 
+
 #### Zero to One: Notes on Startups, or How to Build the Future
 
 Ok, first of all, this book is kind of books that I have to read every year, there are just too much wisdom, Author is Peter Thiel.
@@ -51,3 +52,11 @@ Book is about how to build the future how to succeed building it. I must reread 
 - why did cleantech fail
 - why tesla succeed
 - the funder's paradox
+
+
+
+#### Feynman lectures on Computation
+
+I wasn’t aware that this book exist, I thought Mr Feynman only gave lecture on physics so it was a hell of a surprise for me.
+As title says, it is about computation, from logic gates to explain Turing machine to Quantum computers.
+I'm going to use this book as reference for Computation.
