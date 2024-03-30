@@ -57,10 +57,16 @@ Book is about how to build the future how to succeed building it. I must reread 
 
 #### Feynman lectures on Computation
 
-I wasn’t aware that this book exist, I thought Mr Feynman only gave lecture on physics so it was a hell of a surprise for me.
+I wasn’t aware of this book that even exist, I thought Mr Feynman only gave lecture on physics so it was a hell of a surprise for me.
 As title says, it is about computation, from logic gates to explain Turing machine to Quantum computers.
 I'm going to use this book as reference for Computation.
 
 
 
 #### Effective C: An Introduction to Professional C Programming
+
+Nice introduction to C, I like the style, not very detailed to be boring just enough information about important subjects.
+
+- Compiler implementations
+- Objects, Functions, Types, Pointers
+- Object type, Function type
