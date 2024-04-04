@@ -66,7 +66,10 @@ I'm going to use this book as reference for Computation.
 #### Effective C: An Introduction to Professional C Programming
 
 Nice introduction to C, I like the style, not very detailed to be boring just enough information about important subjects.
+Last chapters seems usefull, like program structure and testing C code. 
 
-- Compiler implementations
-- Objects, Functions, Types, Pointers
-- Object type, Function type
+
+
+#### Beej's Guide to C Programming
+I really like this book, every chapter every well written, it is open source, and not boring.
+I someone would look for a book to learn C, I would recommend this book.
