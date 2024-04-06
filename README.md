@@ -7,7 +7,6 @@
 book is about computers(digital ones), very well written. I'm fascinated by power of abstraction and book is all about abstraction and layers of abstractions in computer.
 this book gave me a good big picture of how computer works(but in every details, of course I don’t know).
 
-###### Questions it answers:
 - what really is code?
 - what are zeros and ones, why and how?
 - how electricity (electrons) can represent 0 and 1?
@@ -65,11 +64,20 @@ I'm going to use this book as reference for Computation.
 
 #### Effective C: An Introduction to Professional C Programming
 
-Nice introduction to C, I like the style, not very detailed to be boring just enough information about important subjects.
-Last chapters seems usefull, like program structure and testing C code. 
+Reference for C programming
 
 
 
 #### Beej's Guide to C Programming
-I really like this book, every chapter every well written, it is open source, and not boring.
-I someone would look for a book to learn C, I would recommend this book.
+Reference for C programming 
+
+
+#### Artificial Intelligences - A Modern Approach
+
+reading.......
+
+
+
+#### How Innovation Works - And Why It Flourishes in Freedom
+
+reading.....
