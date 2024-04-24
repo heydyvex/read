@@ -2,7 +2,7 @@
 
 
 
-#### Code: The Hidden Language of Computer Hardware and Software 2nd Edition
+### Code: The Hidden Language of Computer Hardware and Software 2nd Edition
 
 book is about computers(digital ones), very well written. I'm fascinated by power of abstraction and book is all about abstraction and layers of abstractions in computer.
 this book gave me a good big picture of how computer works(but in every details, of course I don’t know).
@@ -30,7 +30,7 @@ this book gave me a good big picture of how computer works(but in every details,
 
 
 
-#### Zero to One: Notes on Startups, or How to Build the Future
+### Zero to One: Notes on Startups, or How to Build the Future
 
 Ok, first of all, this book is kind of books that I have to read every year, there are just too much wisdom, Author is Peter Thiel.
 Thiel is very critical about things that he discusses in book and it is nice to see he thinks out loud.
@@ -54,7 +54,7 @@ Book is about how to build the future how to succeed building it. I must reread 
 
 
 
-#### Feynman lectures on Computation
+### Feynman lectures on Computation
 
 I wasn’t aware of this book that even exist, I thought Mr Feynman only gave lecture on physics so it was a hell of a surprise for me.
 As title says, it is about computation, from logic gates to explain Turing machine to Quantum computers.
@@ -62,28 +62,30 @@ I'm going to use this book as reference for Computation.
 
 
 
-#### Effective C: An Introduction to Professional C Programming
+### Effective C: An Introduction to Professional C Programming
 
 Reference for C programming
 
 
 
-#### Beej's Guide to C Programming
+### Beej's Guide to C Programming
+
 Reference for C programming 
 
 
-#### Artificial Intelligences - A Modern Approach
+### Artificial Intelligences - A Modern Approach
 
-reading.......
-
-
-
-#### The Beginning of Infinity
-
-reading.....
+reading.. Dropped (for now)
 
 
 
-#### How Innovation Works - And Why It Flourishes in Freedom
+### The Beginning of Infinity
 
-reading.....
+this book is eye-opening, David Deutsch talks about Progress and Knowledge
+reading..
+
+
+
+### How Innovation Works - And Why It Flourishes in Freedom
+
+reading..
