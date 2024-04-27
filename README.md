@@ -81,7 +81,7 @@ reading.. Dropped (for now)
 
 ### The Beginning of Infinity
 
-this book is eye-opening, David Deutsch talks about Progress and Knowledge
+this book is eye-opening, David Deutsch talks about Progress and Knowledge  
 reading..
 
 
@@ -89,3 +89,8 @@ reading..
 ### How Innovation Works - And Why It Flourishes in Freedom
 
 reading..
+
+
+### Computer Systems: A Programmer's Perspective
+Very very good book for learning how computer works under the hood in depth  
+I'm taking notes and doing exercises along the the way and put it on [github](https://github.com/heydyvex/CSAPP)
