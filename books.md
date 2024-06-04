@@ -19,3 +19,5 @@
 
 #### Computer Systems: A Programmer's Perspective 
 *I'm taking notes along the the way and put it on this [github repo](https://github.com/heydyvex/CSAPP)*
+
+#### Information a very short introduction, Luciano Floridi
