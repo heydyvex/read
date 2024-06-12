@@ -1,6 +1,6 @@
- I read books and put my comment on them here.
-
-
+books I've read.
+<br/>
+<br/>
 
 Code: The Hidden Language of Computer Hardware and Software 2nd Edition
 
@@ -21,3 +21,5 @@ Computer Systems: A Programmer's Perspective
 - *I'm taking notes along the way and put it on this [github repo](https://github.com/heydyvex/CSAPP)*
 
 Information a very short introduction, Luciano Floridi
+
+Information Theory, Inference, and Learning Algorithms
