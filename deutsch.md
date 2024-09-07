@@ -140,7 +140,10 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 - "The name derives from what was, for most of the history of science, the prevailing theory of *how science works.* The theory was that there exists, short of mathematical proof, a lesser but still worthy form of justification called induction."
 - "In the inductivist theory of scientific knowledge, observations play two roles: first, in the discovery of scientific theories, and second, in their justification. A theory is supposed to be discovered by 'extrapolating' or 'generalizing' the results of observations. Then, if large numbers of observations conform to the theory, and none deviates from it, the theory is supposed to be justified - made more believable, probable or reliable."
 
+![](/assets/inductivist%20scheme.png)
+*inductivist scheme*
 
+- "The inductivist analysis of my discussion of shadows would therefore go something like this: 'We make a series of observations of shadows, and see interference phenomena (stage 1). The results conform to what would be expected if there existed parallel uni­ verses which affect one another in certain ways. But at first no one notices this. Eventually (stage 2) someone forms the generalization that interference will always be observed under the given circum­stances, and thereby induces the theory that parallel universes are responsible. With every further observation of interference (stage 3) we become a little more convinced of that theory. After a suf­ficiently long sequence of such observations, and provided that none of them ever contradicts the theory, we conclude (stage 4) that the theory is true. Although we can never be absolutely sure, we are for practical purposes convinced.'"
 
 --- 
 ## David's quotes
