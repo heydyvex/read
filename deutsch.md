@@ -157,7 +157,11 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 - With all these inductivism and other prediction-centered theories of knowledge that are based on a misconception, what then is the pattern of scientific reasoning and discovery? we need a better and explanation-centered theory of knowledge, a theory of how explanations come into begin and how they are justified.
 - Karl Popper's theory of knowledge and scientific discovery, regards science(and knowledge) as a ***problem-solving*** process, Inductivism regards the catalogue of the past observations as a sort of skeletal theory, supposing that science is all about filling in the gaps in that theory by interpolation and extrapolation.
 - Problem-solving process begin with an inadequate theory, it begins with our best existing theories. when some of those theories seem inadequate, we want new one, **that is what constitutes a problem.** contrary to the inductivist scheme scien­tific discovery need not begin with observational evidence. But it does always begin with a problem.
-- A problem does not necessarily mean a practical emergency or source of anxiety, it can be a set of ideas that seems inadequate and try to improve them. existing theory may seem glib, labored or unnecessarily narrow or it may be that there have been some surprising observations which existing theories did not predict and cannot explain.
+- A problem does not necessarily mean a practical emergency or source of anxiety, it can be a set of ideas that seems inadequate and try to improve them. existing theory may seem glib, labored or unnecessarily narrow or it may be that there have been some surprising observations which existing theories did not predict and cannot explain. "This last type of problem resembles stage 1 of the inductivist scheme, but only superficially. For an unexpected observation never initiates a scientific discovery unless the pre-existing theories already contain the seeds of the problem.", (observation is theory-laden)
+
+
+![](/assets/problem-solving%20process.png)
+
 
 --- 
 ## David's quotes
