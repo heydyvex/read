@@ -126,6 +126,8 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 ### Chapter 3 - Problem-solving 
 
 ##### What justifies these inferences?
+*warning: justify is this context doesn’t mean justification, meaning demonstrating the truth, but in this context David by word justify means "as an indication of methodologically or morally right thing to do."*
+
 - "I do not know which is stranger - the behavior of shadows itself, or the fact that contemplating a few patterns of light and shadow can force us to revise so radically our conception of the structure of reality."
 - "What justifies these inferences? Can we be sure that just because a star appeared millimetrically displaced on Eddington's photo­ graphic plate, space and time must be curved; or that because a photodetector at a certain position does not register a 'hit' in weak light, there must be parallel universes?"
 - "There is no getting away from the fact that we human beings are small creatures with only a few inaccurate, incomplete channels through which we receive all information from outside ourselves. We interpret this infor­mation as evidence of a large and complex external universe (or multiverse). But when we are weighing up this evidence, we are literally contemplating nothing more than patterns of weak electric current trickling through our own brains."
@@ -137,7 +139,9 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 - "This critique seems to cast doubt on the whole of science - on any reasoning about external reality that appeals to observational evi­dence. If scientific reasoning does not amount to sequences of logi­cal deductions from the evidence, what does it amount to? Why should we accept its conclusions? This is known as the **'problem of induction'.**"
 
 ##### Induction
-- "The name derives from what was, for most of the history of science, the prevailing theory of *how science works.* The theory was that there exists, short of mathematical proof, a lesser but still worthy form of justification called induction."
+*note: mathematical induction is not the same as induction in philosophy of science, and there is nothing wrong with it.*
+
+- it was for most of the history of science, the prevailing theory of *how science works.* The theory was that there exists, short of mathematical proof, a lesser but still worthy form of justification called induction.
 - "In the inductivist theory of scientific knowledge, observations play two roles: first, in the discovery of scientific theories, and second, in their justification. A theory is supposed to be discovered by 'extrapolating' or 'generalizing' the results of observations. Then, if large numbers of observations conform to the theory, and none deviates from it, the theory is supposed to be justified - made more believable, probable or reliable."
 
 ![](/assets/inductivist%20scheme.png)
@@ -156,14 +160,14 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 ##### What now? a better theory for scientific discovery and knowledge, Karl Popper, Problem-solving 
 - With all these inductivism and other prediction-centered theories of knowledge that are based on a misconception, what then is the pattern of scientific reasoning and discovery? we need a better and explanation-centered theory of knowledge, a theory of how explanations come into begin and how they are justified.
 - Karl Popper's theory of knowledge and scientific discovery, regards science(and knowledge) as a ***problem-solving*** process, Inductivism regards the catalogue of the past observations as a sort of skeletal theory, supposing that science is all about filling in the gaps in that theory by interpolation and extrapolation.
-- Problem-solving process begin with an inadequate theory, it begins with our best existing theories. when some of those theories seem inadequate, we want new one, **that is what constitutes a problem.** contrary to the inductivist scheme scien­tific discovery need not begin with observational evidence. But it does always begin with a problem.
+- **Problem-solving process begin with an inadequate theory, it begins with our best existing theories. when some of those theories seem inadequate, we want new one, that is what constitutes a problem.** contrary to the inductivist scheme scien­tific discovery need not begin with observational evidence. But it does always begin with a problem.
 - A problem does not necessarily mean a practical emergency or source of anxiety, it can be a set of ideas that seems inadequate and try to improve them. existing theory may seem glib, labored or unnecessarily narrow or it may be that there have been some surprising observations which existing theories did not predict and cannot explain. "This last type of problem resembles stage 1 of the inductivist scheme, but only superficially. For an unexpected observation never initiates a scientific discovery unless the pre-existing theories already contain the seeds of the problem.", (observation is theory-laden)
 
 ![](/assets/problem-solving%20process.png)
 *problem-solving process. applies to all problem-solving, whatever the subject matter*
 
 - "One solves a problem by finding new or amended theories, con­taining explanations which do not have the deficiencies, but do retain the merits, of existing explanations (Figure 3.2). Thus, after a problem presents itself (stage 1), the 11ext stage always involves conjecture: proposing new theories, or modifying or reinterpreting old ones, in the hope of solving the problem (stage 2). The conjec­tures are then criticized which, if the criticism is rational, entails examining and comparing them to see which offers the best expla­nations, according to the criteria inherent in the problem (stage 3). When a conjectured theory fails to survive criticism - chat is, when it appears to offer worse explanations than other theories do - it is abandoned. If we find ourselves abandoning one of our originally held theories in favour of one of the newly proposed ones (stage 4), we tentatively deem our problem-solving enterprise to have made progress. I say 'tentatively', because subsequent problem­ solving will probably involve altering or replacing even these new, apparently satisfactory theories, and sometimes even resurrecting some of the apparently unsatisfactory ones. Thus the solution, however good, is not the end of the story: it is a starting-point for the next problem-solving process (stage 5)."
--  "A good explanation may make good predictions about the future, but the one thing that no explanation can even begin to predict is the content or quality of its own future rivals."
+-  "**A good explanation may make good predictions about the future, but the one thing that no explanation can even begin to predict is the content or quality of its own future rivals**."
 
 ![](/assets/scientific%20discovery%20process.png)
 *the course of scientific discovery*
@@ -173,9 +177,17 @@ And the whole universe(all parallel universes) are obeying the same laws of phys
 - "But if we take the view that science is about explanations, we see that this rule is really a special case of something that applies naturally to all problem-solving: ***theories that are capable of giving more detailed explanations are automatically preferred***.
   They are preferred for two reasons. One is that a theory that 'sticks its neck out' by being more specific about more phenomena opens up itself and its rivals to more forms of criticism, and therefore has more chance of taking the problem-solving process forward. The second is simply that, if such a theory survives the criticism, it leaves less unexplained - which is the object of the exercise."
 - there is also constant backtracking, in some situations explanation doesn’t fit to the problem and problem need to change, or criticism fails and need to change the proposed solution and so on...
+- and just the reminder that observation, perception and evidence all are theory-laden and all being interpreted by your mind. **before we even make an observation, we decide carefully where and when we should look and what we should look for**. our theoretical backgrounds and existing knowledge influence what we observe, how we perceive it, and how we interpret evidence.
+
+##### Evolutionary epistemology 
+
 
 --- 
 ## David's quotes
 
 - "science is about explaining the seen in terms of unseen" 
-  example by brett:"(explaining the seen) color of certain flames (in terms of the unseen) movements of electrons around the nucleus of an atom"
+  example by Brett:"(explaining the seen) color of certain flames (in terms of the unseen) movements of electrons around the nucleus of an atom"
+## Notes
+By Brett Hall
+- Empiricism *only* gets something right that is better to learn from experience(an encounter with reality) better than authority(scripture or a man) and doing what they say.
+- All life is problem-solving rather than search for final truth, which would be end of science and knowledge creation, we expect to continually solve problems, this is the way of to find contentment(happiness and satisfaction) in the world. one of the meanings of life. 
