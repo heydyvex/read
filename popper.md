@@ -2,7 +2,7 @@
 
 ---
 
-##### An Introduction to Philosophy of Karl Popper by Bryan Magee
+## An Introduction to Philosophy of Karl Popper by Bryan Magee
 
 - "Most of the great revolutions in science have turned on theories of breathtaking audacity not only in respect of creative imagination but in the depth of insight involved, and the independence of mind, the unsecured adventurousness of thought, required." (this is a good argument for why freedom and liberty is a must and first priority.)
 
@@ -52,3 +52,8 @@
 - Near the centre of Popper's explanation of the appeal of totalitarianism is a socio-psychological concept which he calls 'the strain of civilization' - a concept related, as he acknowledges, to that formulated by Freud in Civilization and Its Discontents. We often hear it asserted that most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. Whether or not this applies to 'most people' there is, I am sure, a vital element of truth in it. Accepting responsibility for our lives involves continually facing difficult choices and decisions, and bearing the consequences of them when they are wrong, and this is burdensome, not to say alarming. And there is something in all of us, something infantile perhaps, which would like to escape it by having the load taken from our shoulders. However, our strongest instinct being the instinct for survival, our strongest need is probably the need for security; so we are prepared to shift responsibility only to someone or something in whom we have greater confidence than in ourselves. (This is why people want their rulers to be 'better' than they are, and why they embrace so many implausible beliefs that reinforce confidence that they are, and why they are so seriously disturbed by revelations that they are not.) We want the unavoidable and difficult decisions that govern our lives to be taken by someone stronger than ourselves who nevertheless has our interests at heart, as might a stern but benevolent father; or else to be given to us by a practical system of thought that is wiser than we and makes fewer or no mistakes. Above all we want release from fear. And in the end most fears - including the most basic such as fear of the dark, fear of strangers, fear of death, fear of the consequences of our actions and fear of the future - are forms of fear of the unknown. So we are all the time pressing for assurances that the unknown is known really, and that what it contains is something we are going to want anyway. We embrace religions which assure us that we shall not die, and political philosophies which assure us that society will become perfect in the future, perhaps quite soon.
 
 - We purchase freedom at the cost of security, equality at the cost of our self-esteem, and critical self-awareness at the cost of our peace of mind. The price is steep : none of us pays it happily, and many do not want to pay it at all.
+
+---
+## Quotes
+
+- "Only if we give up our authoritarian attitude in the realm of opinion, only if we establish the attitude of give and take, of readiness to learn from other people, can we hope to control acts of violence inspired by piety and duty."

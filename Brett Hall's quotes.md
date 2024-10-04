@@ -17,3 +17,4 @@ Usually from his youtube channel.
   I only learn things I'm interested in. And then, I don't think there's a method. It's messy and fun, undisciplined for the most part and if I get bored easily I move on to something else. But I can't give good advice here because I've broadly only ever studied precisely what I wanted to. In cases where I have tried hard, I've tended to do poorly (eg: languages).
 - there is no knowledge hierarchy, and knowledge is like web not foundational, claiming mathematics is certain and it is built upon a firm foundation is false and this claim is itself a philosophical argument, this is also false.
 - "you're a mind in the darkness of your skull and as David says you're in perfect complete darkness"
+- "observation serves the purpose of deciding between scientific theories already guessed"
