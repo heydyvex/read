@@ -57,3 +57,4 @@
 ## Quotes
 
 - "Only if we give up our authoritarian attitude in the realm of opinion, only if we establish the attitude of give and take, of readiness to learn from other people, can we hope to control acts of violence inspired by piety and duty."
+- "It is impossible to speak in such a way as to not be misunderstood"
