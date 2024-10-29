@@ -19,3 +19,5 @@ Usually from his youtube channel.
 - there is no knowledge hierarchy, and knowledge is like web not foundational, claiming mathematics is certain and it is built upon a firm foundation is false and this claim is itself a philosophical argument, this is also false.
 - "you're a mind in the darkness of your skull and as David says you're in perfect complete darkness"
 - "observation serves the purpose of deciding between scientific theories already guessed"
+- "when conversation(or every situation in general) is too abstract and divorced from reality, ask and think that what is the problem and what problem are you trying to solve."
+- "The more we know, the more there will be to know."
