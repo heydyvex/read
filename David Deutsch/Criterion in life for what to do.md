@@ -1,0 +1,13 @@
+*This conversation is from Gad Saad second interview with David Deutsch*
+ 
+Gad Saad: So earlier we were talking about purpose and meaning, So if somebody's now a young person is watching this chat, two guys who have had a good career so far, hopefully many more years ahead, what would be the set of prescriptions you'd offer some young person listening to this conversation in terms of how to seek happiness or purpose or meaning?
+
+David Deutsch: I always say to this question I don't want to give advice because whenever you give advice, it'll be your fault when something bad happens. So I'm not going to tell anyone what to do. 
+But I just want to point out what we spoke about before as well, and I think you agreed, that if you adopt a criterion in life for what to do, what to engage with and so on, which does not have the property that in your view you're going to enjoy it, then that is extremely dangerous because when you don't enjoy it, you won't know that you made a mistake because that's what you expected. And if you make decisions on the basis that you expect to enjoy the thing, whatever it is, a course, a job, then ..., if you do, it's fine, that's always fine if you do enjoy it. But if you don't, you will have learned something, you will have learned that you were wrong in the way you judged this thing before. the way you [Gad] described it about marrying the wrong person or going to the wrong job or whatever, if you're philosophically okay with the job being hateful to you, then it's dangerous because you're deprived of the most important thing that would lead you out of it. So that's what I would say. And if it's a young person doing university course, I would say choose the options that you think you will enjoy while doing them. Never mind afterwards.
+
+Clarification:
+- If you choose something not based on expecting to enjoy it, then when you end up not enjoying it, you won't realize you made a mistake.
+- This is because you didn't have the expectation of enjoyment as your criterion in the first place. So when the reality doesn't match that non-existent expectation, you won't recognize it as a mistake and error.
+- For example, if you choose a university major or career solely based on prestige, salary, or parental expectations - rather than whether you expect to genuinely enjoy the work - then when you end up hating it, you won't recognize that as an error in judgement.
+- This is "extremely dangerous" according to Deutsch, because it means you'll be deprived of the crucial feedback that would lead you out of it and to change course.
+- Whereas if you do choose based on expecting enjoyment, and then reality doesn't match that, you'll recognize that there is an error and you will correct the error.

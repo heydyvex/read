@@ -21,3 +21,6 @@ Usually from his youtube channel.
 - "observation serves the purpose of deciding between scientific theories already guessed"
 - "when conversation(or every situation in general) is too abstract and divorced from reality, ask and think that what is the problem and what problem are you trying to solve."
 - "The more we know, the more there will be to know."
+- "knowledge is not truth, it is useful information tends to get itself copied."
+- "the whole point of fabric of reality is to understand everything that is understood"
+- "error is natural state of things"
