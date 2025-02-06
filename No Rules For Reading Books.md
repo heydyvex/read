@@ -1,0 +1,12 @@
+A lot has been written about this topic, but I think most of those giving advice are missing the fact that there is no “right” way to read books. Instead of giving advice on what to do—via positiva—we will explore what not to do—via negativa. Advice on what not to do (or what to avoid) is not only more robust—it changes less over time—it is, in my opinion, the only advice worth giving when it comes to reading.
+
+No Rules
+The best way to read books is different for everyone. This simple observation makes all via positiva advice close to useless. Nonetheless, we can learn something by looking at the reading habits of other people—but not what most people think you can learn.
+
+For example, Naval Ravikant famously reads ~30 books at the “same time” (putting one down without finishing it) while skimming a lot. He does not read books cover to cover but instead jumps around in books reading whatever looks interesting. We have already established that copying the reading style of other people is not particularly useful, but there is still something we can learn here: ignore every rule you know about reading. If you want to read one book after another cover to cover—great. If you want to read 10 books at the same time while still following the natural sequence of chapters in every single book (reading cover to cover)—that is great as well. If you want to read books “naval style”—do it; just keep in mind that there is no superior or best way to read.
+
+It is highly likely that your style of reading (and a lot of other things) will change over time—so there is no point in trying to read books in a certain way. There is also no need to finish books or to read the ones you “have to read”; it is not about how many books you read but about how much you learn and understand. “Speed reading” techniques are also counterproductive; they artificially—with effort—increase your reading speed while your processing and comprehension lag behind—more importantly, they take all the joy out of reading. (I suspect that these techniques were invented by the same economists that are constantly trying to "optimize" everything in our lives while being blind to the fact that these “optimizations” almost always backfire later on; complex systems hate top-down optimization.) You want to enjoy reading or you will never read much.
+
+I summarize (via negativa):
+
+When reading, avoid boredom at all costs; the rest will take care of itself.
